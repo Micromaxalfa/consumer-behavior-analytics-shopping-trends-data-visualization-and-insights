@@ -1,0 +1,2 @@
+# consumer-behavior-analytics-shopping-trends-data-visualization-and-insights
+“This project analyzes consumer shopping trends using the shopping_trends.csv dataset. It covers data exploration, descriptive statistics, and a variety of visualizations including bar charts, pie charts, and line plots. Insights highlight category performance, regional behavior, and customer demographics for business decisions.
